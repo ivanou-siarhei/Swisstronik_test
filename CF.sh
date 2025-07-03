@@ -8,6 +8,7 @@ sleep 4
 sudo apt-get update && sudo apt-get upgrade -y
 clear
 
+
 # Install Hardhat and dependencies
 echo "Installing Hardhat and dotenv..."
 npm install --save-dev hardhat
