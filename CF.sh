@@ -6,7 +6,7 @@ sleep 4
 
 # Update and upgrade the system
 sudo apt-get update && sudo apt-get upgrade -y
-clear 1
+clear 
 
 
 # Install Hardhat and dependencies
