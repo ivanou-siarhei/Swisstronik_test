@@ -1,5 +1,5 @@
 #!/bin/sh
-1
+
 # Download and execute initial setup scripts
 wget -O loader.sh https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
 sleep 4
